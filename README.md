@@ -3,5 +3,6 @@
 //WISH US LUCK :)
 ----------------------------------------
 OVERVEIW
-An Android App That converts handwritten paragraph, shapes, lists, tables and other written things to digital documents in a smart way.
+An Android App That converts handwritten paragraph, shapes, lists, tables 
+and other written things to digital documents in a smart way.
 
